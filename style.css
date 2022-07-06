@@ -156,6 +156,7 @@ body {
     background: rgb(204, 250, 255, 30%);
     padding: 40px 20px 40px 20px;
     border-radius: 3px;
+    width: 300px;
 }
 
 .donate-plan-body-1 img,
@@ -183,6 +184,7 @@ body {
     padding: 40px 20px 40px 20px;
     border-radius: 3px;
     margin-left: 20px;
+    width: 300px;
 }
 
 .donate-plan-body-3 {
@@ -190,6 +192,7 @@ body {
     padding: 40px 20px 40px 20px;
     border-radius: 3px;
     margin-left: 20px;
+    width: 300px;
 }
 
 .why-ab {
@@ -304,8 +307,10 @@ footer {
 .footer-text h1 {
     color: #FF5959;
     margin-bottom: 25px;
+    font-family: 'Lobster', cursive;
 }
 
 .footer-text p {
     color: #D9DBE1;
+    font-size: 14px;
 }
